@@ -1,3 +1,6 @@
+### simple axample
+https://github.com/format37/ru-gpts/blob/master/examples/my_gen_hf.ipynb
+
 # ruGPT3XL, ruGPT3Large, ruGPT3Medium, ruGPT3Small and ruGPT2Large
 This repository contains bunch of autoregressive transformer language models trained on a huge dataset of russian language.
 
